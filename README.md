@@ -1,5 +1,5 @@
 # One of My First Project
-<img width="953" height="536" alt="Screenshot 2025-03-08 at 00 41 05" src="https://github.com/user-attachments/assets/c147e044-2755-4842-b62e-0cc5dacc87cb" />
+<img width="1920" height="1080" alt="Screenshot 2025-03-08 at 00 41 05" src="https://github.com/user-attachments/assets/c147e044-2755-4842-b62e-0cc5dacc87cb" />
 # An Islind of Peace
 <img width="1920" height="1080" alt="lesson2" src="https://github.com/user-attachments/assets/378142ba-6f66-4480-ade2-d03025981efc" />
 # Messerschmitt 262's Fighting Inside a City 
