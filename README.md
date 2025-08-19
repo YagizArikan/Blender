@@ -1,4 +1,4 @@
-# One of My First Projects
+# One of My First Project
 <img width="1920" height="1080" alt="Screenshot 2025-03-08 at 00:41:05" src="https://github.com/user-attachments/assets/c147e044-2755-4842-b62e-0cc5dacc87cb" />
 
 # An Island of Peace
